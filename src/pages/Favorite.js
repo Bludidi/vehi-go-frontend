@@ -32,7 +32,7 @@ const Favorite = () => {
                    image={image}
                  />
                ))
-                 : <div><h2>No Reserved Tutor</h2></div>}
+                 : <div><h2>No Favorites added</h2></div>}
              </div>
            </div>
          )
